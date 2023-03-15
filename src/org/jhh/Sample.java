@@ -41,5 +41,11 @@ public class Sample {
 		s6 = s6.append(s7);
 		System.out.println(s6);
 	System.out.println(System.identityHashCode(s7));
+	
+	
+	
+	
+	
+	System.out.println("Arunish code change 1");
 	}
 }
